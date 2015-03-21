@@ -1,0 +1,2 @@
+# educam
+private property
